@@ -1,4 +1,4 @@
-package org.ala;
+package org.ala.config;
 
 import org.apache.commons.lang.StringUtils;
 import org.socialsignin.spring.data.dynamodb.repository.config.EnableDynamoDBRepositories;

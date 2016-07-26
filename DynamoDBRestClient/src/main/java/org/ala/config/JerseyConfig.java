@@ -1,4 +1,4 @@
-package org.ala;
+package org.ala.config;
 
 import org.glassfish.jersey.filter.LoggingFilter;
 import org.glassfish.jersey.server.ResourceConfig;
